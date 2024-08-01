@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "noEmitOnError": true,
+      "target": "ES5",
+      "module": "CommonJS",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+    }
+}
