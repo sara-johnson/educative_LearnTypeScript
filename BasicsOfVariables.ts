@@ -63,5 +63,9 @@ function constFunction() {
 }
 constFunction();
 
-
+//const is the preferred way to declare a variable. It is the most strict and ensures that the variable will not change in the future.
+//specifying the type happens after naming the variable with the help of colons.
+var varName1: number;
+let varName2: string;
+const varName3: boolean = true;
 
